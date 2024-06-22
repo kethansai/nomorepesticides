@@ -1,7 +1,8 @@
 <template>
+  <NavBar />
   <RouterView />
 </template>
 
-<script setup></script>
-
-<style scoped></style>
+<script setup>
+import NavBar from './components/NavBar.vue'
+</script>
