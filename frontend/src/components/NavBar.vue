@@ -65,11 +65,6 @@
 </template>
 
 <script setup>
-import Menubar from 'primevue/menubar'
-import Badge from 'primevue/badge'
-import InputText from 'primevue/inputtext'
-import Avatar from 'primevue/avatar'
-
 import { ref } from 'vue'
 
 const items = ref([
