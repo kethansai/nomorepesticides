@@ -8,7 +8,6 @@
       :circular="true"
       :showNavigators="false"
       :showIndicators="false"
-      :responsiveOptions="responsiveOptions"
     >
       <template #item="slotProps">
         <div class="rounded m-2 p-4">
