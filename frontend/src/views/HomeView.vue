@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-    <Carousel
+    <!-- <Carousel
       :value="products"
       :numVisible="1"
       :autoplayInterval="3000"
@@ -22,7 +22,7 @@
           </div>
         </div>
       </template>
-    </Carousel>
+    </Carousel> -->
     <Carousel
       :value="products"
       :numVisible="6"
